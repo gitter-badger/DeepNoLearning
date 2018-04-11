@@ -1,4 +1,6 @@
 # DeepNoLearning
+
+[![Join the chat at https://gitter.im/DeepNoLearning/Lobby](https://badges.gitter.im/DeepNoLearning/Lobby.svg)](https://gitter.im/DeepNoLearning/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Project of UCAS Deep Learning Course 
 ## Relevant Resource
 ### 编程规范
